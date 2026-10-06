@@ -1,5 +1,7 @@
 # Regression-Based Robot Current Anomaly Detection
 
+# AI Assisted
+
 ## Project Summary
 
 This project extends the CSCN8010 Data Stream Visualization Workshop into a predictive-maintenance workflow. Eight independent univariate linear regression models learn expected robot-axis current from elapsed time. Synthetic testing data is then streamed through the models. Sustained positive residuals generate Alert or Error events.
