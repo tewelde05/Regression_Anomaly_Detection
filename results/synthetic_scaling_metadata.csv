@@ -1,0 +1,9 @@
+Axis,Training Mean,Training Standard Deviation,Training Minimum,Training Maximum,Standardization Formula,Normalization Formula
+Axis #1,2.0927223273731648,3.258665784710706,0.02606,23.6093,(x - training mean) / training std,(x - training min) / (training max - training min)
+Axis #2,10.350163642599277,8.114989655296068,0.05271,51.71323,(x - training mean) / training std,(x - training min) / (training max - training min)
+Axis #3,7.775850598061903,5.964879124111669,0.05271,41.85556,(x - training mean) / training std,(x - training min) / (training max - training min)
+Axis #4,1.8002225065847235,2.2527179687831898,0.02581,15.6663,(x - training mean) / training std,(x - training min) / (training max - training min)
+Axis #5,2.742450322276941,2.787303772876815,0.02581,20.75076,(x - training mean) / training std,(x - training min) / (training max - training min)
+Axis #6,1.7486925921023606,2.757802341911978,0.02581,20.93142,(x - training mean) / training std,(x - training min) / (training max - training min)
+Axis #7,2.526746302151954,3.0736760139762307,0.01192,8.10848,(x - training mean) / training std,(x - training min) / (training max - training min)
+Axis #8,0.29568710660638764,0.6786541932399106,0.01962,5.90564,(x - training mean) / training std,(x - training min) / (training max - training min)
